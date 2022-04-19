@@ -10,8 +10,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=waffledood&show_icons=true&theme=tokyonight" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waffledood&theme=tokyonight&layout=compact" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waffledood&show_icons=true)
 
 <!--
 **waffledood/waffledood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
