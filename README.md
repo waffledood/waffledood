@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently a Software Engineer at Visa!
-- 📚 National University of Singapore Mechanical Engineering graduate
+- 📚 National University of Singapore Mechanical Engineering & Computer Science graduate
 - 💬 Ask me about: finance, personal development, Star Wars
 - 📫 Drop me a message at haikal7797@gmail.com or my [LinkedIn](https://www.linkedin.com/in/haikalyusuf/)
 
