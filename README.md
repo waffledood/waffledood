@@ -7,8 +7,12 @@
 - 📫 Drop me a message at haikal7797@gmail.com or my [LinkedIn](https://www.linkedin.com/in/haikalyusuf/)
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=waffledood&show_icons=true&theme=tokyonight" width="auto" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waffledood&theme=tokyonight&layout=compact" width="auto" />
+    <a href="https://github.com/waffledood">
+        <img class="img" src="https://github-readme-stats.vercel.app/api?username=waffledood&show_icons=true&theme=tokyonight" width="auto" />
+    </a>
+    <a href="https://github.com/waffledood">
+        <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waffledood&theme=tokyonight&layout=compact" width="auto" />
+    </a>
 </div>
 
 
