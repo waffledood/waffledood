@@ -6,7 +6,7 @@
 - 💬 Ask me about: finance, personal development, Star Wars
 - 📫 Drop me a message at haikal7797@gmail.com or my [LinkedIn](https://www.linkedin.com/in/haikalyusuf/)
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
     <a href="https://github.com/waffledood">
         <img class="img" src="https://github-readme-stats.vercel.app/api?username=waffledood&show_icons=true&theme=tokyonight" width="auto" />
     </a>
