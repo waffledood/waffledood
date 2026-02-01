@@ -40,6 +40,8 @@
 
 <!-- https://github.com/inttter/md-badges -->
 
+<!-- https://github.com/DenverCoder1/custom-icon-badges -->
+
 <!--
 **waffledood/waffledood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
