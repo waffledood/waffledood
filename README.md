@@ -1,13 +1,19 @@
-### Hi, I'm Haikal! 👋
+# Hi, I'm Haikal! 👋
 
+📍 Singapore
 
-- 🔭 I’m currently a Software Engineer at Visa!
-- 📚 National University of Singapore Mechanical Engineering & Computer Science graduate
-- 💬 Ask me about: finance, personal development, Star Wars
-- 📫 Drop me a message at haikal7797@gmail.com or my [LinkedIn](https://www.linkedin.com/in/haikalyusuf/)
+> Software engineer at the intersection of design, finance & technology
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+## GitHub Activity
 
 ![My GitHub contributions](https://ghchart.rshah.org/waffledood)
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Haikal_Yusuf-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haikalyusuf)
 
 <!--
 **waffledood/waffledood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
