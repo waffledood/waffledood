@@ -4,16 +4,53 @@
 
 > Software engineer at the intersection of design, finance & technology
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+Programming Languages
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+
+Frameworks
+
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+
+Databases
+
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+
+CI
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+
+Technologies
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+Tools
+
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 
 ## GitHub Activity
 
-![My GitHub contributions](https://ghchart.rshah.org/waffledood)
+[![My GitHub contributions](https://ghchart.rshah.org/waffledood)](#)
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Haikal_Yusuf-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haikalyusuf)
+[![](https://custom-icon-badges.demolab.com/badge/Haikal_Yusuf-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/haikalyusuf)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+
+<!-- [![LinkedIn](https://img.shields.io/badge/-Haikal_Yusuf-0077B5?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/haikalyusuf) -->
+
+<!-- https://github.com/inttter/md-badges -->
 
 <!--
 **waffledood/waffledood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
