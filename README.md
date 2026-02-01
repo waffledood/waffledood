@@ -1,4 +1,4 @@
-# Hi, I'm Haikal! 👋
+# Hi, I'm Haikal! 👋 🏂 🏞️ 
 
 📍 🇸🇬 Singapore
 
