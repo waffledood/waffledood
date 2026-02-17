@@ -36,13 +36,17 @@
 ## Connect
 
 [![](https://custom-icon-badges.demolab.com/badge/Haikal_Yusuf-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/haikalyusuf)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+[![](https://img.shields.io/badge/Haikal_Yusuf-FF6719?logo=substack&logoColor=fff)](https://substack.com/@haikalyusuf)
 
-<!-- [![LinkedIn](https://img.shields.io/badge/-Haikal_Yusuf-0077B5?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/haikalyusuf) -->
+<!-- [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) -->
+
+<!-------- References -------->
 
 <!-- https://github.com/inttter/md-badges -->
 
 <!-- https://github.com/DenverCoder1/custom-icon-badges -->
+
+<!-- [![LinkedIn](https://img.shields.io/badge/-Haikal_Yusuf-0077B5?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/haikalyusuf) -->
 
 <!--
 **waffledood/waffledood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
