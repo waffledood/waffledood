@@ -38,6 +38,7 @@
 
 [![](https://custom-icon-badges.demolab.com/badge/Haikal_Yusuf-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/haikalyusuf)
 [![](https://img.shields.io/badge/Haikal_Yusuf-FF6719?logo=substack&logoColor=fff)](https://substack.com/@haikalyusuf)
+[![](https://img.shields.io/badge/Haikal_Yusuf-372213?logo=goodreads&logoColor=fff)](https://www.goodreads.com/user/show/92187217)
 
 <!-- [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) -->
 
